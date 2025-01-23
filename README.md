@@ -1,6 +1,20 @@
-# 💫 About Me:
-# 👋 Hi, I’m Abhijeet Kadam (@abhijeet8080)  <br><br>- 👀 I’m passionate about solving complex problems and building impactful software solutions.  <br>- 🌱 I’m currently learning advanced concepts in software engineering and exploring real-time systems, computer vision, and full-stack development.  <br>- 💞️ I’m looking to collaborate on innovative projects, open-source contributions, and exciting software engineering challenges.  <br>- 📫 How to reach me:  <br>  - Email: [kadamabhijeet021@gmail.com](mailto:kadamabhijeet021@gmail.com)  <br>  - LinkedIn: [linkedin.com/in/abhijeetkadam21](https://www.linkedin.com/in/abhijeetkadam21)  <br>  <br>- ⚡ Fun fact: When I’m not coding, you’ll find me exploring new tech trends, playing strategy games, or binge-watching sci-fi shows!  <br><br>✨ Let’s connect and create something amazing together!  
+<h1>💫 About Me:</h1><br>
+Hi there! 👋 I’m Abhijeet Kadam (@abhijeet8080).<br>
 
+🌟 I’m passionate about creating innovative software solutions and solving challenging problems.<br>
+
+📖 Currently learning advanced concepts in software engineering, with a focus on real-time systems, computer vision, and full-stack development.<br>
+
+🤝 I’m open to collaborating on exciting projects, contributing to open-source, and tackling software engineering challenges.<br>
+
+📫 You can reach me via:<br>
+
+Email: kadamabhijeet021@gmail.com<br>
+LinkedIn: [linkedin.com/in/abhijeetkadam21](https://www.linkedin.com/in/abhijeetkadam21)<br>
+<br>
+⚡ Fun Fact: When I’m not coding, I enjoy exploring tech trends, playing strategy games, and binge-watching sci-fi shows.<br>
+
+✨ Let’s connect and build something awesome together! 🚀<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhijeetk_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeetkadam21) 
