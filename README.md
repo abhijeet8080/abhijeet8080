@@ -17,6 +17,7 @@ LinkedIn: [linkedin.com/in/abhijeetkadam21](https://www.linkedin.com/in/abhijeet
 ✨ Let’s connect and build something awesome together! 🚀<br>
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://abhijeet-kadam.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhijeetk_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeetkadam21) 
 
 # 💻 Tech Stack:
